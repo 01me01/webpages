@@ -1,0 +1,29 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    background-color:grey;
+    font-size: 20px;
+    align-items: center;
+    padding:10px 40px ;
+}
+
+td{
+    
+    font-size: 15px;
+    text-align:center;
+    padding:10px 0px
+}
+table tr:nth-child(odd) td{
+    background-color:lightgrey;
+}
+a{
+    text-decoration:none;
+    border:2px solid black;
+    padding:20px;
+    border-radius:10px;
+}
+h1{
+    background-color: cyan;
+}
